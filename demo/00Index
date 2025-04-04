@@ -1,0 +1,2 @@
+application_demo.R   Demonstrates the application of core package functions.
+demoSim.R            Simulates data using the spatial transformation model.

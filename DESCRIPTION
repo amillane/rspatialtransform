@@ -1,0 +1,22 @@
+Package: rspatialtransform
+Title: Spatial Transformation 
+Version: 0.1.0
+Authors@R: 
+    c(person("Drew", "Millane", , "first.last@example.com", role = c("aut")),
+    person("Matthew", "Heaton", , "first.last@example.com", role = c("cre")))
+Description: rspatialtransform transforms spatially correlated to be independent and be ready to be trained on machine learning models.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+  R (>= 4.1.0)
+Imports:
+    spNNGP,
+    magrittr,
+    parallel,
+    fields,
+    stats,
+    GPvecchia
+
+
