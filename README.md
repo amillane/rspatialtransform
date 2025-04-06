@@ -17,7 +17,7 @@ devtools::install_github('amillane/rspatialtransform')
 
 ## Example
 
-This is a basic example which shows you how implement the transformation:
+This is a basic example which shows you how to implement the transformation:
 
 ``` r
 ## usage example
